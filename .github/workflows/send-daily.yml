@@ -1,0 +1,54 @@
+name: Send daily digest email
+
+# Triggered after the site is built/deployed, or on its own schedule.
+# Calls the Cloudflare Worker /api/send-daily with an HMAC-signed body so the
+# Worker only honors requests originating from GitHub Actions.
+
+on:
+  workflow_run:
+    workflows: ["Build and deploy site"]
+    types: [completed]
+  schedule:
+    - cron: "30 6 * * *"   # a few minutes after the site build (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  send-daily:
+    # Only proceed when the upstream build succeeded.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve digest path for today
+        id: digest
+        run: |
+          DATE=$(date -u +%F)
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          if [ -f "data/digests/$DATE.json" ]; then
+            echo "path=data/digests/$DATE.json" >> "$GITHUB_OUTPUT"
+          else
+            echo "path=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send daily digest via Worker
+        if: steps.digest.outputs.path != ''
+        env:
+          ACTIONS_SECRET: ${{ secrets.ACTIONS_SECRET }}
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+        run: |
+          BODY=$(cat "${{ steps.digest.outputs.path }}")
+          SIG=$(printf '%s' "$BODY" | openssl dgst -sha256 -hmac "$ACTIONS_SECRET" | awk '{print $2}')
+          curl -fsS -X POST "$WORKER_URL/api/send-daily" \
+            -H "X-Actions-Signature: $SIG" \
+            -H "Content-Type: application/json" \
+            --data-binary "$BODY"
+
+      - name: Skip if no digest
+        if: steps.digest.outputs.path == ''
+        run: echo "No digest for ${{ steps.digest.outputs.date }}; skipping send."
