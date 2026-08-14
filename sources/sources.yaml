@@ -93,3 +93,12 @@ sources:
     category: general
     tags: [news]
     fetch_opts: {timeout: 15}
+
+  - id: aikido-blog
+    name: Aikido Blog
+    url: https://www.aikido.dev/blog/rss.xml
+    type: rss
+    lang: en
+    category: vendor
+    tags: [research, vendor]
+    fetch_opts: {timeout: 15}
