@@ -2,7 +2,7 @@ name: Build and deploy site
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   schedule:
     - cron: "0 6 * * *"   # daily digest + rebuild (UTC)
   workflow_dispatch:
