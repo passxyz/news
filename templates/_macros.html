@@ -1,0 +1,45 @@
+{# Reusable partials. Macros resolve only from their own args, so they stay portable. #}
+
+{% macro tag_chip(tag) %}
+{% set classes = {'vuln':'tag--vuln','advisory':'tag--advisory','research':'tag--research','patch':'tag--patch','breach':'tag--breach'} %}
+{% set cls = classes.get(tag, 'tag--general') %}
+<span class="tag {{ cls }}">{{ tag }}</span>
+{% endmacro %}
+
+{% macro item_card(item, i=0) %}
+<article class="item" style="--i:{{ i }}">
+  <a class="item__title" href="{{ item.url }}" rel="noopener noreferrer nofollow" target="_blank">{{ item.title }}</a>
+  <div class="item__meta">
+    <span class="src">{{ item.source }}</span>
+    <span class="sep" aria-hidden="true">&middot;</span>
+    <time datetime="{{ item.published }}">{{ item.time_label }}</time>
+    {% if item.tags %}
+    <span class="sep" aria-hidden="true">&middot;</span>
+    <span class="tags">{% for t in item.tags %}{{ tag_chip(t) }}{% endfor %}</span>
+    {% endif %}
+  </div>
+  {% if item.summary %}<p class="item__summary">{{ item.summary }}</p>{% endif %}
+</article>
+{% endmacro %}
+
+{% macro date_strip(date_label, prev, nxt, today_url, stats) %}
+<div class="datestrip">
+  <div class="datestrip__top">
+    <h1 class="datestrip__date">{{ date_label }}</h1>
+    <div class="datestrip__nav">
+      {% if prev %}
+        <a class="datestrip__arrow" href="{{ prev.url }}" rel="prev">&larr; <span>{{ prev.label }}</span></a>
+      {% else %}
+        <span class="datestrip__arrow is-disabled" aria-hidden="true">&larr;</span>
+      {% endif %}
+      <a class="datestrip__today" href="{{ today_url }}">Today</a>
+      {% if nxt %}
+        <a class="datestrip__arrow" href="{{ nxt.url }}" rel="next"><span>{{ nxt.label }}</span> &rarr;</a>
+      {% else %}
+        <span class="datestrip__arrow is-disabled" aria-hidden="true">&rarr;</span>
+      {% endif %}
+    </div>
+  </div>
+  {% if stats %}<p class="datestrip__stats">{{ stats['items'] }} items &middot; {{ stats.sources }} sources</p>{% endif %}
+</div>
+{% endmacro %}

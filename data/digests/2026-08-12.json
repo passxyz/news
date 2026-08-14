@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T01:05:00Z",
+  "stats": { "items": 6, "sources": 5 },
+  "items": [
+    {
+      "title": "Supply-chain attack compromises a popular npm package with 2M weekly downloads",
+      "url": "https://thehackernews.com/example-npm-supply-chain",
+      "source": "The Hacker News",
+      "published": "2026-08-12T10:15:00Z",
+      "summary": "Maintainer tokens were phished; the malicious version harvested environment variables on install.",
+      "tags": ["breach", "advisory"],
+      "lang": "en"
+    },
+    {
+      "title": "Zero-day in popular VPN appliance under limited active exploitation",
+      "url": "https://www.bleepingcomputer.com/example-vpn-zeroday",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T09:02:00Z",
+      "summary": "Vendor released an out-of-band patch; no public proof-of-concept yet.",
+      "tags": ["vuln", "patch"],
+      "lang": "en"
+    },
+    {
+      "title": "Academic paper formalizes detection of ML model exfiltration via timing",
+      "url": "https://arxiv.org/example-ml-exfil",
+      "source": "arXiv",
+      "published": "2026-08-12T07:48:00Z",
+      "summary": "Authors propose side-channel mitigations for inference APIs that leak weights.",
+      "tags": ["research"],
+      "lang": "en"
+    },
+    {
+      "title": "Europol coordinates takedown of a major credential-stealing marketplace",
+      "url": "https://www.eurojust.europa.eu/example-takedown",
+      "source": "Europol",
+      "published": "2026-08-12T06:20:00Z",
+      "summary": "Servers seized across four countries; stolen credentials shared with affected platforms.",
+      "tags": ["advisory"],
+      "lang": "en"
+    },
+    {
+      "title": "Browser vendors ship fix for a speculative-execution leak variant",
+      "url": "https://lwn.net/example-spec-exec",
+      "source": "LWN.net",
+      "published": "2026-08-12T05:00:00Z",
+      "summary": "Mitigation re-enables a previously relaxed barrier; minor perf cost on older CPUs.",
+      "tags": ["patch", "research"],
+      "lang": "en"
+    },
+    {
+      "title": "Healthcare provider confirms ransomware after days of outage rumors",
+      "url": "https://krebsonsecurity.com/example-health-ransom",
+      "source": "Krebs on Security",
+      "published": "2026-08-12T03:40:00Z",
+      "summary": "Patient portals remain offline; the operator reports no evidence of data theft so far.",
+      "tags": ["breach"],
+      "lang": "en"
+    }
+  ]
+}

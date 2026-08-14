@@ -1,0 +1,54 @@
+# ============================================================
+# CyberSec Daily — Cloudflare Worker backend (Phase P6)
+# ============================================================
+#
+# Quick start:
+#   1) Create the KV namespaces and paste their IDs below
+#      (or let wrangler create them):
+#        wrangler kv namespace create SUBSCRIBERS
+#        wrangler kv namespace create SOURCES
+#        wrangler kv namespace create RATE_LIMIT
+#   2) Set secrets (never commit these). Each prompt reads from stdin:
+#        wrangler secret put RESEND_API_KEY
+#        wrangler secret put ADMIN_TOKEN
+#        wrangler secret put ACTIONS_SECRET     # HMAC shared secret for GitHub Actions trigger
+#        wrangler secret put GITHUB_TOKEN       # optional: read digest from GitHub API/raw
+#        wrangler secret put WORKER_PUBLIC_BASE # e.g. https://cybersec-news.example.workers.dev
+#   3) Seed the source list mirror (admin-authed):
+#        curl -X PUT https://<worker>/api/sources \
+#          -H "Authorization: Bearer <ADMIN_TOKEN>" \
+#          -H "Content-Type: application/json" \
+#          -d @sources.json
+#   4) Deploy: wrangler deploy
+#
+# KV is the primary store. A D1 alternative schema is provided in
+# worker/schema.sql (not used at runtime unless you migrate to D1).
+# ============================================================
+
+name = "cybersec-news-worker"
+main = "src/index.ts"
+compatibility_date = "2024-09-01"
+
+# Non-secret configuration (safe to commit).
+[vars]
+RESEND_FROM = "CyberSec Daily <digest@example.com>"
+GITHUB_REPO = "user/cyber-security-news"   # owner/repo for fetching latest digest from raw.githubusercontent.com
+
+# --- KV namespace bindings (replace ids after `wrangler kv namespace create`) ---
+[[kv_namespaces]]
+binding = "SUBSCRIBERS"
+id = "REPLACE_WITH_SUBSCRIBERS_KV_ID"
+
+[[kv_namespaces]]
+binding = "SOURCES"
+id = "REPLACE_WITH_SOURCES_KV_ID"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "REPLACE_WITH_RATE_LIMIT_KV_ID"
+
+# --- Optional: D1 binding (only if migrating off KV) ---
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "cybersec-news"
+# database_id = "REPLACE_WITH_D1_DATABASE_ID"

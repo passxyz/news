@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T01:05:00Z",
+  "stats": { "items": 8, "sources": 7 },
+  "items": [
+    {
+      "title": "Critical OpenSSL vulnerability patched in latest release",
+      "url": "https://thehackernews.com/example-openssl",
+      "source": "The Hacker News",
+      "published": "2026-08-13T09:12:00Z",
+      "summary": "Maintainers urge immediate upgrades; the flaw allows remote attackers to trigger a denial-of-service condition under specific TLS handshakes.",
+      "tags": ["vuln", "patch"],
+      "lang": "en"
+    },
+    {
+      "title": "CISA adds three actively exploited flaws to its KEV catalog",
+      "url": "https://www.bleepingcomputer.com/example-cisa-kev",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T08:40:00Z",
+      "summary": "Federal agencies must remediate the bugs within three weeks under binding operational direction.",
+      "tags": ["advisory"],
+      "lang": "en"
+    },
+    {
+      "title": "Researchers detail new phishing kit evading MFA via realtime proxies",
+      "url": "https://krebsonsecurity.com/example-phishing-kit",
+      "source": "Krebs on Security",
+      "published": "2026-08-13T07:55:00Z",
+      "summary": "The kit tunnels victim sessions in real time, defeating most push-based second factors.",
+      "tags": ["research", "breach"],
+      "lang": "en"
+    },
+    {
+      "title": "Cloud provider misconfiguration exposed 4M customer records",
+      "url": "https://www.darkreading.com/example-cloud-leak",
+      "source": "Dark Reading",
+      "published": "2026-08-13T06:30:00Z",
+      "summary": "A public storage bucket left names, emails, and partial payment metadata accessible for weeks.",
+      "tags": ["breach"],
+      "lang": "en"
+    },
+    {
+      "title": "Linux kernel 6.10 hardens BPF subsystem against privilege escalation",
+      "url": "https://lwn.net/example-bpf-harden",
+      "source": "LWN.net",
+      "published": "2026-08-13T05:10:00Z",
+      "summary": "New bounds checks close a path that could let unprivileged users escalate to root via crafted eBPF programs.",
+      "tags": ["patch", "research"],
+      "lang": "en"
+    },
+    {
+      "title": "Ransomware crew shifts to dataless extortion, leaks in stages",
+      "url": "https://www.bleepingcomputer.com/example-ransom-extortion",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T04:22:00Z",
+      "summary": "Analysts note a move away from encryption toward staged public disclosures to pressure victims.",
+      "tags": ["breach", "research"],
+      "lang": "en"
+    },
+    {
+      "title": "New CVE scoring debate: should exploitability weigh more than impact?",
+      "url": "https://www.schneier.com/example-cve-scoring",
+      "source": "Schneier on Security",
+      "published": "2026-08-13T03:05:00Z",
+      "summary": "A long-form argument that current CVSS weighting under-rates wormable but low-impact flaws.",
+      "tags": ["research"],
+      "lang": "en"
+    },
+    {
+      "title": "Patch Tuesday: Microsoft addresses 90 flaws, one wormable RCE",
+      "url": "https://www.zdnet.com/example-patch-tuesday",
+      "source": "ZDNet",
+      "published": "2026-08-13T02:00:00Z",
+      "summary": "Administrators should prioritize the remote code execution bug affecting SMB deployments.",
+      "tags": ["patch", "advisory"],
+      "lang": "en"
+    }
+  ]
+}

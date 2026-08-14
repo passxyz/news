@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site_title }}</title>
+    <link>{{ base_url }}/</link>
+    <description>Daily cyber security news briefing, aggregated from trusted sources.</description>
+    <language>en</language>
+    <lastBuildDate>{{ build_date }}</lastBuildDate>
+    <atom:link href="{{ base_url }}/feed.xml" rel="self" type="application/rss+xml"/>
+    {% for item in digest['items'][:25] %}
+    <item>
+      <title>{{ item.title }}</title>
+      <link>{{ item.url }}</link>
+      <guid isPermaLink="true">{{ item.url }}</guid>
+      <pubDate>{{ item.pub_rfc }}</pubDate>
+      <description>{{ item.summary or item.title }} ({{ item.source }})</description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

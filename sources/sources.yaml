@@ -1,0 +1,95 @@
+# Cyber security news sources.
+# Add/edit/remove entries, then validate with:
+#   python scripts/validate_sources.py
+# Field reference: see docs/SOURCES.md and sources/sources.schema.json
+
+sources:
+  - id: the-hacker-news
+    name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    type: rss
+    lang: en
+    category: general
+    tags: [news]
+    fetch_opts: {timeout: 15}
+
+  - id: bleepingcomputer
+    name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+    type: rss
+    lang: en
+    category: general
+    tags: [news]
+    fetch_opts: {timeout: 15}
+
+  - id: krebs
+    name: Krebs on Security
+    url: https://krebsonsecurity.com/feed/
+    type: rss
+    lang: en
+    category: general
+    tags: [investigations]
+    fetch_opts: {timeout: 15}
+
+  - id: dark-reading
+    name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+    type: rss
+    lang: en
+    category: general
+    tags: [news]
+    fetch_opts: {timeout: 15}
+
+  - id: schneier
+    name: Schneier on Security
+    url: https://www.schneier.com/feed/atom/
+    type: rss
+    lang: en
+    category: analysis
+    tags: [analysis]
+    fetch_opts: {timeout: 15}
+
+  - id: cisa-advisories
+    name: CISA Cybersecurity Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+    type: rss
+    lang: en
+    category: advisories
+    tags: [advisory, government]
+    fetch_opts: {timeout: 20}
+
+  - id: sophos-naked-security
+    name: Naked Security (Sophos)
+    url: https://nakedsecurity.sophos.com/feed/
+    type: rss
+    lang: en
+    category: general
+    tags: [news]
+    fetch_opts: {timeout: 15}
+
+  - id: talos-blog
+    name: Cisco Talos Blog
+    url: https://blog.talosintelligence.com/rss/
+    type: rss
+    lang: en
+    category: research
+    tags: [research]
+    fetch_opts: {timeout: 15}
+
+  - id: microsoft-security
+    name: Microsoft Security Blog
+    url: https://www.microsoft.com/en-us/security/blog/feed/
+    type: rss
+    lang: en
+    category: vendor
+    tags: [research, vendor]
+    fetch_opts: {timeout: 15}
+
+  - id: security-affairs
+    name: Security Affairs
+    url: https://securityaffairs.com/feed/
+    type: rss
+    lang: en
+    category: general
+    tags: [news]
+    fetch_opts: {timeout: 15}

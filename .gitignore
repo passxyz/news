@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python packaging artifacts
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# Node / Cloudflare
+node_modules/
+.wrangler/
+dev.vars
+
+# Env / secrets
+.env
+*.log
+
+# Generated site output (site/assets/ is hand-written source — keep it)
+site/index.html
+site/feed.xml
+site/archive/
+site/20??/
+
+# Generated run reports
+reports/

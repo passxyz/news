@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test Security Feed</title>
+    <link>https://example.test/feed</link>
+    <description>Fixture for pipeline tests</description>
+    <item>
+      <title>Critical vulnerability patched in popular library</title>
+      <link>https://example.test/vuln-patched</link>
+      <description>A severe vulnerability was patched today affecting many deployments.</description>
+      <pubDate>Wed, 13 Aug 2026 09:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ransomware crew leaks data after breach</title>
+      <link>https://example.test/ransom-leak</link>
+      <description>The attackers exfiltrated customer records before encrypting systems.</description>
+      <pubDate>Wed, 13 Aug 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CISA adds new flaws to KEV catalog</title>
+      <link>https://example.test/cisa-kev</link>
+      <description>The advisory requires agencies to remediate within three weeks.</description>
+      <pubDate>Wed, 13 Aug 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weekend cookbook sale - 50% discount</title>
+      <link>https://example.test/cookbook-sale</link>
+      <description>Huge discount on cooking books this weekend, no security content.</description>
+      <pubDate>Wed, 13 Aug 2026 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

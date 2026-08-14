@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% from "_macros.html" import date_strip, item_card %}
+
+{% block title %}{{ digest.date_label }} &middot; {{ site_title }}{% endblock %}
+
+{% block content %}
+<section class="brief">
+  {{ date_strip(digest.date_label, prev, next, today_url, digest.stats) }}
+
+  {% if digest['items'] %}
+  <div class="feed">
+    {% for item in digest['items'] %}
+      {{ item_card(item, loop.index0) }}
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="empty">No items were aggregated for this day.</p>
+  {% endif %}
+
+  <section class="subscribe" id="subscribe">
+    <div class="subscribe__card">
+      <h2>Get tomorrow's brief in your inbox</h2>
+      <p class="muted">One email a day. No spam. Unsubscribe anytime.</p>
+      <form class="subscribe__form" method="post" action="{{ subscribe_url }}">
+        <label class="visually-hidden" for="email">Email address</label>
+        <input id="email" name="email" type="email" inputmode="email" placeholder="you@example.com" autocomplete="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </section>
+</section>
+{% endblock %}

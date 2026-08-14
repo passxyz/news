@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ site_title }}{% endblock %}</title>
+  <meta name="description" content="A daily briefing of cyber security news, aggregated from trusted sources.">
+  <link rel="alternate" type="application/rss+xml" title="{{ site_title }}" href="{{ asset('feed.xml') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+  <script>
+    (function () {
+      var t = localStorage.getItem('theme');
+      if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap site-header__inner">
+      <a class="wordmark" href="{{ url('index.html') }}">
+        <span class="wordmark__mark" aria-hidden="true"></span>
+        <span class="wordmark__text">{{ site_title }}</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="{{ url('index.html') }}">Today</a>
+        <a href="{{ url('archive/index.html') }}">Archive</a>
+        <a href="#subscribe">Subscribe</a>
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="false">Dark</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap site-footer__inner">
+      <p class="wordmark__text">{{ site_title }} <span class="muted">&middot; aggregated from public sources, daily.</span></p>
+      <p class="muted footer-links">
+        <a href="{{ url('index.html') }}">Today</a> &middot;
+        <a href="{{ url('archive/index.html') }}">Archive</a> &middot;
+        <a href="{{ asset('feed.xml') }}">RSS</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="{{ asset('assets/js/theme.js') }}"></script>
+</body>
+</html>

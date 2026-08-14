@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Archive &middot; {{ site_title }}{% endblock %}
+
+{% block content %}
+<section class="archive">
+  <header class="archive__head">
+    <h1 class="archive__title">Archive</h1>
+    <p class="muted">Every daily brief, grouped by month.</p>
+  </header>
+
+  {% for month, days in months %}
+  <section class="archive__month">
+    <h2 class="archive__month-title">{{ month }}</h2>
+    <ul class="archive__list">
+      {% for d in days %}
+      <li class="archive__row">
+        <a class="archive__link" href="{{ d.url }}"><time datetime="{{ d.date }}">{{ d.label }}</time></a>
+        <span class="muted archive__count">{{ d.count }} items</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+</section>
+{% endblock %}

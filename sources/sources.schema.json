@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cyber Security News Sources",
+  "description": "Schema for sources/sources.yaml — the user-maintained list of news sources.",
+  "type": "object",
+  "required": ["sources"],
+  "additionalProperties": false,
+  "properties": {
+    "sources": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/source"},
+      "minItems": 1
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["id", "name", "url", "type"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]{1,63}$",
+          "description": "Stable lowercase identifier."
+        },
+        "name": {"type": "string", "minLength": 1, "description": "Display name."},
+        "url": {"type": "string", "format": "uri", "description": "Feed or page URL."},
+        "type": {"enum": ["rss", "html", "api"], "description": "How to parse the source."},
+        "parser": {
+          "type": "object",
+          "description": "Type-specific parsing hints (e.g. CSS selectors for html).",
+          "additionalProperties": true
+        },
+        "lang": {"type": "string", "default": "en", "description": "ISO language code."},
+        "category": {"type": "string", "description": "Editorial category."},
+        "enabled": {"type": "boolean", "default": true},
+        "tags": {"type": "array", "items": {"type": "string"}, "default": []},
+        "fetch_opts": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "timeout": {"type": "number", "minimum": 1, "maximum": 60, "default": 15},
+            "user_agent": {"type": "string"},
+            "headers": {"type": "object", "additionalProperties": {"type": "string"}}
+          }
+        }
+      }
+    }
+  }
+}
