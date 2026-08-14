@@ -102,3 +102,39 @@ sources:
     category: vendor
     tags: [research, vendor]
     fetch_opts: {timeout: 15}
+
+  - id: stepsecurity-blog
+    name: StepSecurity Blog
+    url: https://www.stepsecurity.io/blog/rss.xml
+    type: rss
+    lang: en
+    category: vendor
+    tags: [research, vendor]
+    fetch_opts: {timeout: 15}
+
+  - id: semgrep-blog
+    name: Semgrep Blog
+    url: https://semgrep.dev/blog/rss
+    type: rss
+    lang: en
+    category: vendor
+    tags: [research, vendor]
+    fetch_opts: {timeout: 15}
+
+  - id: wiz-blog
+    name: Wiz Blog
+    url: https://www.wiz.io/feed/rss.xml
+    type: rss
+    lang: en
+    category: vendor
+    tags: [research, vendor]
+    fetch_opts: {timeout: 15}
+
+  - id: socket-blog
+    name: Socket Blog
+    url: https://socket.dev/api/blog/feed.atom
+    type: rss
+    lang: en
+    category: vendor
+    tags: [research, vendor]
+    fetch_opts: {timeout: 15}
