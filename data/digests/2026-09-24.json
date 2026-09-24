@@ -1,0 +1,1226 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T11:08:25+00:00",
+  "stats": {
+    "items": 100,
+    "sources": 13
+  },
+  "items": [
+    {
+      "title": "[Virtual Event] Cybersecurity Outlook 2027",
+      "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+      "source": "Dark Reading",
+      "published": "2026-12-03T16:00:00Z",
+      "summary": "",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T10:42:37Z",
+      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "tags": [
+        "news",
+        "vuln",
+        "patch",
+        "advisory"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T09:38:53Z",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+      "tags": [
+        "news",
+        "vuln",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "source": "The Hacker News",
+      "published": "2026-09-24T09:14:21Z",
+      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-spo...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T08:14:47Z",
+      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "source": "The Hacker News",
+      "published": "2026-09-24T06:32:03Z",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It ...",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CLOSEDQUORUM, the malware that asks four AI models what to do next",
+      "url": "https://securityaffairs.com/199640/malware/closedquorum-the-malware-that-asks-four-ai-models-what-to-do-next.html",
+      "source": "Security Affairs",
+      "published": "2026-09-24T05:44:13Z",
+      "summary": "Cisco Talos finds CLOSEDQUORUM, malware that lets four commercial AI models vote on its next move, with no human operator required. Cisco Talos found malware, dubbed CLOSEDQUORUM, that holds a vote before deciding what to steal from you. Four AI models vote on its next move, without any human int...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "source": "The Hacker News",
+      "published": "2026-09-24T05:36:18Z",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacke...",
+      "tags": [
+        "news",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Malware Detection and Response Automation",
+      "url": "https://semgrep.dev/blog/2026/introducing-malware-detection-and-response-automation",
+      "source": "Semgrep Blog",
+      "published": "2026-09-24T00:00:00Z",
+      "summary": "<p>Semgrep Supply Chain now includes Malware Detection and Response Automation, providing end-to-end protection during package compromises.</p>",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts",
+      "url": "https://socket.dev/blog/firefox-google-account-takeover?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-09-23T21:37:15Z",
+      "summary": "A malicious Firefox extension fetches its payload after installation to evade detection, steal Google session cookies, and automate account takeover.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T21:25:13Z",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "U.S. CISA adds Check Point, Arista VeloCloud Orchestrator, and F5 BIG-IP APM flaws to its Known Exploited Vulnerabilities catalog",
+      "url": "https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "published": "2026-09-23T20:37:18Z",
+      "summary": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Check Point, Arista VeloCloud Orchestrator, and F5 BIG-IP APM&#160;flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Kn...",
+      "tags": [
+        "news",
+        "vuln",
+        "advisory"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T19:53:54Z",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T18:31:22Z",
+      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "tags": [
+        "news",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "F5 BIG-IP APM Zero-Day Exploited in Zero-Day RCE Attacks",
+      "url": "https://securityaffairs.com/199619/security/f5-big-ip-apm-zero-day-exploited-in-zero-day-rce-attacks.html",
+      "source": "Security Affairs",
+      "published": "2026-09-23T18:12:15Z",
+      "summary": "F5 warns of a critical BIG-IP APM zero-day, CVE-2026-94127, allowing remote code execution. Attackers are already exploiting it. F5 has released emergency security updates for a critical vulnerability, tracked as CVE-2026-94127 (CVSS score of 9.8), in BIG-IP Access Policy Manager (APM) that attac...",
+      "tags": [
+        "news",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T18:06:30Z",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Ter...",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T16:53:10Z",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a butto...",
+      "tags": [
+        "news",
+        "patch",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T16:20:54Z",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T16:06:41Z",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with a...",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-23T16:00:00Z",
+      "summary": "<p>We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-de...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+      "source": "Dark Reading",
+      "published": "2026-09-23T14:47:09Z",
+      "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "InfraTrust report warns network management systems under attack",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T14:35:26Z",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "tags": [
+        "news",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Sckit Supply Chain Worm Hits MemTensor npm & PyPi scopes",
+      "url": "https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes",
+      "source": "StepSecurity Blog",
+      "published": "2026-09-23T14:34:30Z",
+      "summary": "Compromised MemTensor npm releases turn an AI memory plugin into a credential-harvesting entry point, exposing prompts and creating a path to further package compromise.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T14:17:58Z",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen th...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ShinyHunters claims FBI breach after alleged PeopleSoft zero-day attack",
+      "url": "https://securityaffairs.com/199612/cyber-crime/shinyhunters-claims-fbi-breach-after-alleged-peoplesoft-zero-day-attack.html",
+      "source": "Security Affairs",
+      "published": "2026-09-23T13:56:02Z",
+      "summary": "ShinyHunters claims FBI breach via PeopleSoft zero-day, steals staff data; FBI investigating, no confirmation yet. The popular cybercrime group ShinyHunters is claiming that it breached the U.S. Federal Bureau of Investigation (FBI) and stole sensitive information belonging to FBI employees and j...",
+      "tags": [
+        "news",
+        "vuln",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T13:52:46Z",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and S...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T12:29:53Z",
+      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T11:47:19Z",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a secu...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft: September Windows updates break Always On VPN connections",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T11:18:13Z",
+      "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T11:12:18Z",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but ...",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "EvilTokens made phishing-as-a-service look easy. Then it got taken down",
+      "url": "https://securityaffairs.com/199593/cyber-crime/eviltokens-made-phishing-as-a-service-look-easy-then-it-got-taken-down.html",
+      "source": "Security Affairs",
+      "published": "2026-09-23T11:00:31Z",
+      "summary": "Microsoft, Coinbase and law enforcement took down EvilTokens, a phishing kit that compromised 12,000 inboxes through device-code phishing and AI. EvilTokens showed up in February 2026 and moved fast. Within months it had compromised more than 12,000 inboxes across over 10,000 organizations. Micro...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack",
+      "url": "https://socket.dev/blog/memtensor-compromise?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-09-23T09:16:58Z",
+      "summary": "The compromise affects MemTensor's MemOS, an open source memory framework for large language models (LLMs) and AI agents. Both npm package @memtensor/memos-cloud-openclaw-plugin and the PyPI package MemoryOS are compromised. They drop cross-platform Go binaries that exfiltrate developer secrets.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fake LastPass on GitHub Led to an Infostealer That Killed 145 Security Tools",
+      "url": "https://securityaffairs.com/199577/malware/fake-lastpass-on-github-led-to-an-infostealer-that-killed-145-security-tools.html",
+      "source": "Security Affairs",
+      "published": "2026-09-23T08:25:27Z",
+      "summary": "Attackers spoofed LastPass on GitHub, used a Microsoft-signed driver to disable 145 security products, then deployed an infostealer. Someone impersonated LastPass on GitHub, got users to download a fake authenticator, and ended up killing 145 different antivirus and EDR products using a driver th...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Novel supplychain.local Go worm appears",
+      "url": "https://www.aikido.dev/blog/supplychain-local-memtensor-npm-pypi",
+      "source": "Aikido Blog",
+      "published": "2026-09-23T07:41:00Z",
+      "summary": "\"supplychain.local\": malicious code found in MemTensor's npm plugin (0.1.21, 0.1.23) and PyPI's MemoryOS (2.0.34). Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Send GitLab an email, push to main",
+      "url": "https://www.aikido.dev/blog/gitlab-email-push-to-main",
+      "source": "Aikido Blog",
+      "published": "2026-09-23T06:00:00Z",
+      "summary": "GitLab gives you a private email address to create issues. If leaked, anyone who has it can push code, execute CI/CD jobs, and bypass IP restrictions across all of your public and private projects. Category: Research",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cyber Resilience Act is here! Myth busting and first impressions",
+      "url": "https://www.aikido.dev/blog/cyber-resilience-act-myth-busting-first-impressions",
+      "source": "Aikido Blog",
+      "published": "2026-09-23T01:30:00Z",
+      "summary": "The Cyber Resilience Act's first deadline just came up on September 11, 2026. What the new Single Reporting Platform looks like, and four common CRA myths debunked. Category: News",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The AI Ecosystem Has Worms Now: Inside the MemTensor Compromise",
+      "url": "https://semgrep.dev/blog/2026/the-ai-ecosystem-has-worms-now-inside-the-memtensor-compromise",
+      "source": "Semgrep Blog",
+      "published": "2026-09-23T00:00:00Z",
+      "summary": "<p>On September 23, 2026, an attacker published credential-stealing builds of MemTensor's MemOS packages to npm and PyPI. Neither build runs on install, instead both wire the payload into code paths that run anyway, and on the Python side that means the moment your code imports the library. The f...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
+      "source": "Dark Reading",
+      "published": "2026-09-22T20:55:53Z",
+      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating sec...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "source": "Dark Reading",
+      "published": "2026-09-22T20:02:02Z",
+      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
+      "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
+      "source": "Dark Reading",
+      "published": "2026-09-22T19:59:24Z",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
+      "tags": [
+        "news",
+        "advisory"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw",
+      "url": "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html",
+      "source": "Security Affairs",
+      "published": "2026-09-22T19:31:40Z",
+      "summary": "Check Point fixes an actively exploited flaw that lets unauthenticated attackers upload and run scripts on vulnerable Security Management Servers. Check Point has released emergency hotfixes for CVE-2026-93616, a critical path traversal flaw in its Security Management Server. Attackers can abuse ...",
+      "tags": [
+        "news",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-22T15:00:00Z",
+      "summary": "<p>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure an...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Chaotic Eclipse Released BigDiskBuster, A PoC For Windows Defender Update DoS Zero-Day",
+      "url": "https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html",
+      "source": "Security Affairs",
+      "published": "2026-09-22T14:04:00Z",
+      "summary": "The researcher Chaotic Eclipse released BigDiskBuster, a PoC exploit for a Windows Defender Update&#160;DoS Zero-Day vulnerability. Security researcher Chaotic Eclipse, also known as INFINITE NIGHTMARE, MSNightmare and Nightmare-Eclipse, released a new zero-day exploit targeting Microsoft Defende...",
+      "tags": [
+        "news",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Graphalgo campaign spreads to Terraform providers and Go Modules",
+      "url": "https://www.aikido.dev/blog/graphalgo-terraform-go-modules",
+      "source": "Aikido Blog",
+      "published": "2026-09-22T12:18:00Z",
+      "summary": "Aikido found Graphalgo-linked Go malware in Terraform providers and Go Modules, using targeted triggers, Slack, and blockchain C2. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+      "source": "Dark Reading",
+      "published": "2026-09-22T12:00:00Z",
+      "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+      "source": "Dark Reading",
+      "published": "2026-09-22T10:22:37Z",
+      "summary": "Threat actors stole the contents of 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
+      "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-22T10:00:58Z",
+      "summary": "CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project, exhibits fully autonomous command and control (C2). It represents a shift in effort displacement for attackers, in which expanding portions of the attack chain can be executed without operator involvement.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware",
+      "url": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-22T10:00:25Z",
+      "summary": "Talos is releasing CAIRN, a research toolkit for hunting, classifying, and tracking emerging AI-integrated malware.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "source": "Dark Reading",
+      "published": "2026-09-21T19:11:26Z",
+      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing Aikido Altar: the model that makes sovereign security intelligence possible",
+      "url": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security",
+      "source": "Aikido Blog",
+      "published": "2026-09-21T13:30:00Z",
+      "summary": "Aikido Altar is a compressed, open-weight AI model built for sovereign security intelligence, powering Aikido Machine's on-prem, air-gapped pentesting. Category: Product & Company Updates",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Friday Squid Blogging: On Squid Egg Sacs",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
+      "source": "Schneier on Security",
+      "published": "2026-09-18T21:06:00Z",
+      "summary": "<p>Short <a href=\"https://harpswellanchor.org/2026/08/intertidal-squid-courtship-is-unusual-and-colorful/\">essay</a> about squid egg sacs.</p> <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p> <p><a href=\"https://www.sch...",
+      "tags": [
+        "analysis"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "source": "Dark Reading",
+      "published": "2026-09-18T20:24:51Z",
+      "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "source": "Dark Reading",
+      "published": "2026-09-18T19:26:47Z",
+      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Should you care about an “AI slowdown?”",
+      "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-17T18:00:23Z",
+      "summary": "In this week's Threat Source, David talks about why focusing on your security basics is still your best bet, even in a world with rapid AI advancements.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From guidance to action: Security fundamentals that materially reduce risk",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-17T17:00:00Z",
+      "summary": "<p>AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-17T16:00:00Z",
+      "summary": "<p>The latest email security benchmarking reports show strong Microsoft Defender performance across pre-delivery and post-delivery scenarios and reveal where threats and defenses continue to evolve.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PolinRider Spreads Through Compromised GitHub Accounts and Packagist",
+      "url": "https://socket.dev/blog/polinrider-github-packagist?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-09-17T15:33:22Z",
+      "summary": "Operators behind PolinRider used a compromised GitHub account to plant malware in four development versions of a Packagist package with 700,000+ downloads.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Exploring the new AWS Sign Up experience",
+      "url": "https://www.wiz.io/blog/exploring-the-new-aws-sign-up-experience",
+      "source": "Wiz Blog",
+      "published": "2026-09-17T14:25:30Z",
+      "summary": "This post will explore what this new concept does, how it works with the new Account Access capability, and why a strong security posture still requires upgrading out of the sandbox.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Aikido achieves AWS Security Competency for Application Security",
+      "url": "https://www.aikido.dev/blog/aws-security-competency-announcement",
+      "source": "Aikido Blog",
+      "published": "2026-09-17T12:00:00Z",
+      "summary": "AWS has recognized Aikido with its Security Competency for Application Security, validating how Aikido secures applications from code to cloud to runtime. Category: Product & Company Updates",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
+      "url": "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-17T10:00:43Z",
+      "summary": "Ransomware incidents in Japan rose 4.7% year over year. The Gentlemen was the most active group, with leak-site listings more than doubling from January to July. Qilin ranked second and appeared to use AI, while SMEs with capital under JPY 1 billion represented 80% of victims.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Top Qodo Alternatives for AI-Powered Code Assistance",
+      "url": "https://www.aikido.dev/blog/qodo-alternatives",
+      "source": "Aikido Blog",
+      "published": "2026-09-16T21:55:00Z",
+      "summary": "The best Qodo alternatives for AI code review in 2026, compared across noise, security, and cost, so you can pick the tool that fits your team. Category: DevSec Tools & Comparisons",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Top Aqua Security alternatives for cloud-native security in 2026",
+      "url": "https://www.aikido.dev/blog/aqua-security-alternatives",
+      "source": "Aikido Blog",
+      "published": "2026-09-16T13:53:00Z",
+      "summary": "Compare the best Aqua Security alternatives in 2026: Aikido, Wiz, Prisma Cloud, Sysdig, Orca, and CrowdStrike, on coverage, deployment, pricing, and fit. Category: DevSec Tools & Comparisons",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Fake CAPTCHA Scams",
+      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
+      "source": "Schneier on Security",
+      "published": "2026-09-16T11:25:26Z",
+      "summary": "<p>New <a href=\"https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams\">variant</a> of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.</p>",
+      "tags": [
+        "analysis"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Securing the unpatchable in an age of AI-driven vulnerabilities",
+      "url": "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-16T10:00:36Z",
+      "summary": "Advances in AI technology will continue to identify vulnerabilities that in some circumstances are difficult, or effectively impossible, to patch. Appropriate network segmentation, rigorous visibility, and the deployment of NGFW/IPS combinations can provide a powerful compensatory layer.",
+      "tags": [
+        "research",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "一緒に投資する: Wiz Defend と Google Security Operations",
+      "url": "https://www.wiz.io/blog/wiz-defend-and-google-security-operations",
+      "source": "Wiz Blog",
+      "published": "2026-09-15T12:49:17Z",
+      "summary": "Wiz Defend と Google Security Operations の統合をさらに深め、チームが調査を行う場所を問わず、より迅速な作業を支援します。",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dependabot vs Renovate",
+      "url": "https://www.aikido.dev/blog/dependabot-vs-renovate",
+      "source": "Aikido Blog",
+      "published": "2026-09-14T15:56:00Z",
+      "summary": "Dependabot vs Renovate compared on setup, monorepos, platforms, and security, plus why auto-updating misses what's actually exploitable Category: DevSec Tools & Comparisons",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Twitch Browser Extension Exposes 30,000 Users’ OAuth Tokens to Russian Bot Service",
+      "url": "https://socket.dev/blog/malicious-twitch-browser-extension?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-09-11T14:23:33Z",
+      "summary": "A Twitch browser extension on Chrome and Firefox forwards users’ live OAuth session tokens through proxies controlled by a Russian bot service.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic Identifies Biased Reasoning and Recklessness as Drivers of Claude’s PyPI Attack",
+      "url": "https://socket.dev/blog/claude-pypi-attack?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-09-10T22:05:04Z",
+      "summary": "Anthropic found biased reasoning and recklessness drove Claude Mythos 5 to publish malware on PyPI and compromise a security vendor.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+      "url": "https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201",
+      "source": "Wiz Blog",
+      "published": "2026-09-10T19:04:00Z",
+      "summary": "Wiz Research has identified active, in-the-wild exploitation of three critical and high-severity vulnerabilities impacting JFrog Artifactory (CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329). Attackers are chaining these vulnerabilities to bypass authentication and gain administrative control.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We've got one word for it, and it's usually the wrong one",
+      "url": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-10T18:00:15Z",
+      "summary": "In this week's Threat Source newsletter, Joe explores why the word \"burnout\" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-10T17:23:05Z",
+      "summary": "<p>Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-execut...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-10T16:00:00Z",
+      "summary": "<p>See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/\">Detect and disrupt AI-t...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Wiz achieves GovRAMP High Authorization",
+      "url": "https://www.wiz.io/blog/wiz-govramp-high",
+      "source": "Wiz Blog",
+      "published": "2026-09-10T11:00:00Z",
+      "summary": "Delivering unified cloud security and accelerating secure modernization to protect citizen data and critical infrastructure.",
+      "tags": [
+        "research",
+        "vendor",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The CVE spike across major software companies is a remediation problem",
+      "url": "https://www.aikido.dev/blog/cve-spike-remediation-problem",
+      "source": "Aikido Blog",
+      "published": "2026-09-10T10:10:00Z",
+      "summary": "CVE volume is climbing across major software companies, and a federal audit shows even NIST couldn't keep up. Here's why remediation speed, not disclosure count, is the number that actually matters. Category: News",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Threat matrix: Mapping threats across cloud web applications",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-09T21:30:00Z",
+      "summary": "<p>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&#038;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-09T17:41:18Z",
+      "summary": "<p>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guida...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
+      "url": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-09T16:08:59Z",
+      "summary": "Cisco Talos is actively tracking the exploitation of two vulnerabilities in Cisco’s Secure Firewall Management Center (FMC) Software.",
+      "tags": [
+        "research",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Off Guard: Breaking LiteLLM from authentication bypass to cloud compromise",
+      "url": "https://www.wiz.io/blog/off-guard-breaking-litellm-from-authentication-bypass-to-cloud-compromise",
+      "source": "Wiz Blog",
+      "published": "2026-09-09T16:06:00Z",
+      "summary": "How default keys, unauthenticated MCP sessions, and custom code guardrails expose cloud AI infrastructure to root-level remote code execution and IAM theft.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
+      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-08T22:16:35Z",
+      "summary": "Microsoft has released its monthly security update for September 2026, which includes 973 vulnerabilities affecting a range of products, including 113 that Microsoft marked as \"critical.\"",
+      "tags": [
+        "research",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "source": "Krebs on Security",
+      "published": "2026-09-08T21:44:22Z",
+      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that man...",
+      "tags": [
+        "investigations",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
+      "url": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-08T10:01:07Z",
+      "summary": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
+      "tags": [
+        "research",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How to secure edge AI in customer-owned environments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-04T19:10:10Z",
+      "summary": "<p>As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-custome...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The story behind the intelligence",
+      "url": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-09-03T18:00:13Z",
+      "summary": "From engaging with cybercriminals to surviving a live Flamin’ Hot Cheetos taste test, Hazel reflects on the latest Beers with Talos with Azim, where they cover the full spectrum of what it takes to gather threat intel.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-09-03T16:00:00Z",
+      "summary": "<p>Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phis...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Developers Prevent Production Risk at the Source",
+      "url": "https://www.wiz.io/blog/prevent-production-risk-at-code-stage",
+      "source": "Wiz Blog",
+      "published": "2026-09-03T00:31:46Z",
+      "summary": "Fixing security vulnerabilities in code takes seconds, while patching in production creates high operational costs and risk. Discover how empowering developers as your first line of defense eliminates exposure across every phase of your software pipeline.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Runtime Security for AWS CodeBuild-Hosted GitHub Actions Runners",
+      "url": "https://www.stepsecurity.io/blog/runtime-security-for-aws-codebuild-hosted-github-actions-runners",
+      "source": "StepSecurity Blog",
+      "published": "2026-09-02T10:07:46Z",
+      "summary": "Harden-Runner now secures GitHub Actions jobs running on AWS CodeBuild-hosted runners, on EC2 compute, with managed or custom images.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Feeling the heat from Malicious Packages? Cool off with Cooldowns",
+      "url": "https://semgrep.dev/blog/2026/rolling-out-dependency-cooldowns-org-wide",
+      "source": "Semgrep Blog",
+      "published": "2026-08-31T00:00:00Z",
+      "summary": "<p>Most malicious package versions get caught and pulled within hours or days. Most developers have little reason to use a dependency released that recently. A one week cooldown produces a surprisingly large security benefit with very little developer friction.</p>",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "@7nohe/openapi-react-query-codegen Compromised Through an Exposed npm Publishing Workflow",
+      "url": "https://www.stepsecurity.io/blog/7nohe-openapi-react-query-codegen-compromised-npm-publishing-workflow",
+      "source": "StepSecurity Blog",
+      "published": "2026-08-28T23:15:06Z",
+      "summary": "Ten malicious versions of @7nohe/openapi-react-query-codegen were published through an exposed npm publishing workflow. IOCs and recovery steps inside.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dev Machine Guard Now Inventories Where Developer Credentials Live",
+      "url": "https://www.stepsecurity.io/blog/dev-machine-guard-now-inventories-where-developer-credentials-live",
+      "source": "StepSecurity Blog",
+      "published": "2026-08-28T22:52:49Z",
+      "summary": "Dev Machine Guard now inventories where developer tools keep credentials. See which credential sources are in use across your fleet, how many devices each one affects, and how much of that material is sitting in plaintext. Credential values, fragments, hashes, and fingerprints are never stored, d...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Inside 90 days of attacks on AI infrastructure",
+      "url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+      "source": "Wiz Blog",
+      "published": "2026-08-27T16:33:16Z",
+      "summary": "Wiz honeypots uncover active campaigns targeting LiteLLM, MCP servers, and AI frameworks through RCE, blind prompt injection, and memory credential theft.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Version Control DFIR: a Cheatsheet to GitHub, GitLab, Bitbucket, and Azure DevOps",
+      "url": "https://www.wiz.io/blog/vcs-dfir-threat-hunting-github-gitlab-azure-devops",
+      "source": "Wiz Blog",
+      "published": "2026-08-27T12:00:00Z",
+      "summary": "A practitioner’s guide to log visibility, incident readiness, and threat hunting across the major version control services.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Semgrep Multimodal Goes Beyond Authentication: What we learned from Comparing it with Mythos",
+      "url": "https://semgrep.dev/blog/2026/idor-detection-benchmark-semgrep-multimodal",
+      "source": "Semgrep Blog",
+      "published": "2026-08-27T00:00:00Z",
+      "summary": "<p>Semgrep Multimodal found 63 manually reviewed IDOR vulnerabilities that Mythos missed.</p>",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The State of Cloud Risk 2026: Most Security Findings Aren’t Real Attacker Opportunities",
+      "url": "https://www.wiz.io/blog/cloud-risk-report-2026",
+      "source": "Wiz Blog",
+      "published": "2026-08-26T15:01:58Z",
+      "summary": "Wiz Research telemetry reveals why the majority of high-severity findings lack a path to compromise",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The State of Open Source Supply Chain Attacks",
+      "url": "https://www.stepsecurity.io/blog/state-of-open-source-supply-chain-attacks",
+      "source": "StepSecurity Blog",
+      "published": "2026-08-23T22:40:19Z",
+      "summary": "StepSecurity threat intelligence tracked 56 open source supply chain attacks from August 2025 to August 2026, roughly one every three days since March. See the data and the defenses.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Rust Supply-Chain Attack: arrayref, internment, and append-only-vec Poisoned by the proc-macro1 Build-Time Dropper",
+      "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
+      "source": "StepSecurity Blog",
+      "published": "2026-08-22T14:04:13Z",
+      "summary": "Three Rust crates are compromised: arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9 each added a typosquatted build-time dependency (proc-macro1, proc-macro-en) whose build script downloads and runs a remote binary during cargo build. Full technical analysis: timeline, dropper dissect...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hacker Summer Camp 2026: A Longitudinal Study of 2,295 Talks",
+      "url": "https://semgrep.dev/blog/2026/hacker-summer-camp-2026-a-longitudinal-study-of-2295-talks",
+      "source": "Semgrep Blog",
+      "published": "2026-08-21T00:00:00Z",
+      "summary": "<p>BSidesLV, Black Hat and DEF CON are infotainment at its finest, and there's far too much of it. We researched 2,295 talks across 2025 and 2026 to find what moves the needle in the AI stack.</p>",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Rust Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns",
+      "url": "https://www.wiz.io/blog/rust-supply-chain-attack-on-arrayref-significant-overlap-with-dprk-campaigns",
+      "source": "Wiz Blog",
+      "published": "2026-08-20T15:56:39Z",
+      "summary": "Malicious versions of the arrayref Rust crate (and others) executed a backdoor at compile time. The campaign's infrastructure overlaps with recent DPRK supply chain attacks, including Mastra and axios.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2",
+      "url": "https://www.stepsecurity.io/blog/chaindrop-npm-worm",
+      "source": "StepSecurity Blog",
+      "published": "2026-08-16T01:13:00Z",
+      "summary": "ChainDrop npm worm: 444 packages and 2,212 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GLM-5.3 delivers Opus 4.8-level cybersecurity results at a fraction of the cost",
+      "url": "https://semgrep.dev/blog/2026/glm-53-delivers-opus-48-level-cybersecurity-results-at-a-fraction-of-the-cost",
+      "source": "Semgrep Blog",
+      "published": "2026-08-14T00:00:00Z",
+      "summary": "<p>GLM-5.3 just dropped and returns Opus 4.8-level performance for a fraction of the cost. Here’s how it and xAI’s recent Grok models compare in our benchmark.</p>",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "published": "2026-08-11T21:28:35Z",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "tags": [
+        "investigations",
+        "vuln"
+      ],
+      "lang": "en"
+    }
+  ]
+}
