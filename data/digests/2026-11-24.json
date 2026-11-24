@@ -1,0 +1,1256 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T16:58:44+00:00",
+  "stats": {
+    "items": 100,
+    "sources": 14
+  },
+  "items": [
+    {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T16:30:19Z",
+      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T16:22:44Z",
+      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T16:15:23Z",
+      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T15:01:11Z",
+      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve softwa...",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T14:09:37Z",
+      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T13:34:23Z",
+      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T13:28:26Z",
+      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the C...",
+      "tags": [
+        "news",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T13:28:21Z",
+      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Powering the OpenAI Daybreak Defense Factory with Wiz Security Intelligence",
+      "url": "https://www.wiz.io/blog/wiz-openai-codex-integration",
+      "source": "Wiz Blog",
+      "published": "2026-11-24T13:00:03Z",
+      "summary": "Bringing cloud security intelligence to AI-driven vulnerability investigation and code remediation.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "U.S. CISA adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog",
+      "url": "https://securityaffairs.com/203882/hacking/u-s-cisa-adds-n-able-mailassure-and-project-monai-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Security Affairs",
+      "published": "2026-11-24T12:48:09Z",
+      "summary": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds N-able MailAssure and Project MONAI flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added N-able MailAssure and Project MONAI vulnerabilities to its Known Explo...",
+      "tags": [
+        "news",
+        "vuln",
+        "advisory"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:42:09Z",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted mali...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "We Get the Infrastructure We Pay For",
+      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
+      "source": "Schneier on Security",
+      "published": "2026-11-24T12:06:50Z",
+      "summary": "<p><em>This essay originally appeared as part of a <a href=\"https://www.thefp.com/p/cybersecurity-terrorism-iran-china-russia-apocalypse\">round table</a> in <cite>The Free Press</cite> entitled &#8220;Is America’s Infrastructure Under Attack?&#8221;</em></p> <p>Microsoft, the FAA, banks, United A...",
+      "tags": [
+        "analysis"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:02:00Z",
+      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's ...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:01:54Z",
+      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manu...",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-328-02.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsod...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Danfoss AK-SM 8xxA Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-328-03.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges.</strong>...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-328-01.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash,...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "nginx2root (CVE-2026-123007): HTTP/2 Flaw Lets Attackers Run Code on Unpatched nginx Servers",
+      "url": "https://www.stepsecurity.io/blog/cve-2026-123007-nginx-http2-rce",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-24T10:57:03Z",
+      "summary": "nginx 1.31.9 and 1.30.7 fix an HTTP/2 flaw that a public exploit turns into unauthenticated code execution. See what stopped the exploit in our lab, how to patch and confirm the fix, and how to find nginx on developer machines.",
+      "tags": [
+        "research",
+        "vendor",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T10:44:49Z",
+      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively lo...",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hackers May Have Breached FBI Database Used by Police Nationwide",
+      "url": "https://securityaffairs.com/203865/cyber-crime/hackers-may-have-breached-fbi-database-used-by-police-nationwide.html",
+      "source": "Security Affairs",
+      "published": "2026-11-24T07:05:05Z",
+      "summary": "FBI investigates an apparent breach of its NCIC criminal database, raising concerns over sensitive law enforcement data and security. The FBI is investigating a possible breach of a database that police use to check arrest warrants and access criminal records. According to the BBC, US media repor...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T06:02:57Z",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more tim...",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T06:02:45Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVS...",
+      "tags": [
+        "news",
+        "vuln",
+        "patch",
+        "advisory"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Don't Point a Model at the Codebase and Call It AppSec",
+      "url": "https://semgrep.dev/blog/2026/agentic-appsec-platform-vs-prompting-a-model",
+      "source": "Semgrep Blog",
+      "published": "2026-11-24T06:00:00Z",
+      "summary": "A model that finds real bugs makes building security agents in-house look like a short project. But getting from that first result to a program you'd trust takes years of language coverage and a way to remember what your team has already decided.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+      "source": "Dark Reading",
+      "published": "2026-11-23T22:02:46Z",
+      "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+      "tags": [
+        "news",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments",
+      "url": "https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-11-23T21:55:22Z",
+      "summary": "Socket researchers uncovered 13 malicious NuGet packages linked to fake developer job assessments, DLL side-loading, credential theft, and GitHub-based malware.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "source": "Dark Reading",
+      "published": "2026-11-23T21:21:42Z",
+      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "source": "BleepingComputer",
+      "published": "2026-11-23T20:54:51Z",
+      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+      "source": "Dark Reading",
+      "published": "2026-11-23T20:13:48Z",
+      "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "source": "BleepingComputer",
+      "published": "2026-11-23T20:00:20Z",
+      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "source": "BleepingComputer",
+      "published": "2026-11-23T19:42:20Z",
+      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "tags": [
+        "news",
+        "vuln",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "source": "BleepingComputer",
+      "published": "2026-11-23T18:38:40Z",
+      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+      "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "source": "Dark Reading",
+      "published": "2026-11-23T17:45:52Z",
+      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "source": "The Hacker News",
+      "published": "2026-11-23T17:45:15Z",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised n...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+      "source": "Dark Reading",
+      "published": "2026-11-23T16:17:21Z",
+      "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "source": "The Hacker News",
+      "published": "2026-11-23T15:10:48Z",
+      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening c...",
+      "tags": [
+        "news",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Agentic Attacks: In The Wild",
+      "url": "https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks",
+      "source": "Wiz Blog",
+      "published": "2026-11-23T14:46:19Z",
+      "summary": "Agentic offensive frameworks like ARTEX are driving a surge in cloud intrusions. Wiz Research shares cases from the wild, including both sides of one attack via the operator's leaked logs, an update on Black October, and the detections that catch these noisy, machine-speed attacks.",
+      "tags": [
+        "research",
+        "vendor",
+        "patch",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details",
+      "url": "https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html",
+      "source": "Security Affairs",
+      "published": "2026-11-23T14:33:37Z",
+      "summary": "Microsoft Entra Connect Health breach exposed tenant metadata and admin details, potentially enabling targeted phishing and social-engineering attacks. Microsoft has disclosed a data breach involving its Entra Connect Health service, which exposed tenant metadata and administrator contact details...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-23T12:00:00Z",
+      "summary": "<div class=\"OutlineElement Ltr SCXW1462417 BCX8\"> <p>CISA has added two new vulnerabilities to its <a class=\"Hyperlink SCXW1462417 BCX8\" href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" rel=\"noreferrer noopener\"><u>Known Exploited Vulnerabilities (KEV) Catalog</u></a>, based on...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Bulgaria Discovers Massive Government Breach After Five Years of Undetected Spying",
+      "url": "https://securityaffairs.com/203794/intelligence/bulgaria-discovers-massive-government-breach-after-five-years-of-undetected-spying.html",
+      "source": "Security Affairs",
+      "published": "2026-11-23T09:46:56Z",
+      "summary": "Bulgaria uncovered a five-year cyberespionage campaign that stole 130GB of government files. The attacker and full impact remain unknown. Bulgaria &#8216;s ministry for innovation and digital transformation announced it had uncovered a hacking operation running since 2021. Reuters reports that mo...",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "BADBOX 3.0 Exposed: Massive Botnet Hides Ad Fraud Inside Android TV Boxes",
+      "url": "https://securityaffairs.com/203767/malware/badbox-3-0-exposed-massive-botnet-hides-ad-fraud-inside-android-tv-boxes.html",
+      "source": "Security Affairs",
+      "published": "2026-11-23T07:44:44Z",
+      "summary": "BADBOX 3.0 returns with 40 billion daily ad requests, turning infected TV boxes into fraud machines The BADBOX botnet is back, and its latest version has reached a scale that makes previous ad fraud operations look relatively small. Researchers from HUMAN&#8217;s Satori Threat Intelligence and Re...",
+      "tags": [
+        "news",
+        "breach",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 9",
+      "url": "https://securityaffairs.com/203725/ai/security-affairs-ai-cybersecurity-newsletter-round-9.html",
+      "source": "Security Affairs",
+      "published": "2026-11-22T14:31:35Z",
+      "summary": "Security Affairs AI-CYBERSECURITY newsletter includes a collection of the best articles and research on AI in the international landscape Artificial intelligence is rapidly changing cybersecurity, reshaping both the techniques used by attackers and the tools available to defenders. AI agents can ...",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 123",
+      "url": "https://securityaffairs.com/203714/malware/security-affairs-malware-newsletter-round-123-2.html",
+      "source": "Security Affairs",
+      "published": "2026-11-22T13:56:43Z",
+      "summary": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Malware Newsletter MMD-073-2026 &#8211; Linux/EasyShell, a new Rust RAT implant and beacon aims Linux and MacOS&#160;&#160; Supply chain attack: BO Team in a softw...",
+      "tags": [
+        "news",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+      "source": "Dark Reading",
+      "published": "2026-11-21T01:31:23Z",
+      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "published": "2026-11-21T00:36:39Z",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attacke...",
+      "tags": [
+        "investigations"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "OPTIMJACK: Optimizely-Hosted Scripts Loaded a Crypto Clipper and Card Skimmer on 178 Organizations",
+      "url": "https://www.stepsecurity.io/blog/optimjack-optimizely-hosted-scripts-crypto-clipper-card-skimmer",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-21T00:10:43Z",
+      "summary": "Optimizely confirmed an attacker injected malicious JavaScript into customer projects. What the payload does, who was hit, and what to check.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "source": "Schneier on Security",
+      "published": "2026-11-20T22:04:12Z",
+      "summary": "<p>This <a href=\"https://www.worldatlas.com/oceans/the-largest-squid-ever-filmed.html\"> is the story</a> of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands.</p> <p>As usual, you can also use this squid post to talk about the security stories in the news that I...",
+      "tags": [
+        "analysis"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "published": "2026-11-20T21:03:27Z",
+      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+      "tags": [
+        "news",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools — Maybe More",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "source": "Dark Reading",
+      "published": "2026-11-20T18:35:40Z",
+      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-11-20T17:00:00Z",
+      "summary": "<p>We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magi...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "source": "Dark Reading",
+      "published": "2026-11-20T13:51:30Z",
+      "summary": "At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.",
+      "tags": [
+        "news"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "<div class=\"OutlineElement Ltr SCXW266414493 BCX8\"> <p>CISA has added four new vulnerabilities to its <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\"><u>Known Exploited Vulnerabilities (KEV) Catalog</u></a>, based on evidence of active exploitation.</p> <ul> <li><a class=\"H...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "phpAfterShell and Critical PHP RCE Vulnerabilities: Everything You Need To Know",
+      "url": "https://www.wiz.io/blog/phpaftershell-critical-php-rce-vulnerabilities-cve-2026-126714",
+      "source": "Wiz Blog",
+      "published": "2026-11-19T21:46:23Z",
+      "summary": "Detect and mitigate phpAfterShell, and additional critical vulnerabilities from PHP's November release that may enable remote code execution.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "source": "Dark Reading",
+      "published": "2026-11-19T20:14:15Z",
+      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+      "tags": [
+        "news",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Hardening GitHub Actions Against Insider Threats",
+      "url": "https://socket.dev/blog/hardening-github-actions-against-insider-threats?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-11-19T19:17:08Z",
+      "summary": "A practical guide to securing CI/CD pipelines against stolen credentials, covering GitHub Actions, trusted publishing, release approvals, and revocation.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
+      "url": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
+      "source": "Aikido Blog",
+      "published": "2026-11-19T16:04:00Z",
+      "summary": "We reviewed 50 AI-related security incidents from 2026. Most came down to exposed secrets, over-scoped access, weak isolation and compromised vendors. Category: News",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Elecbrakes EB2, VM1, ELBC2000",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-02.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the fir...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Autonomy Logic OpenPLC Runtime",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-01.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created.</strong></p> <p>The...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "libumqtt",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-323-03.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or inf...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Ruby2Shell: critical Ruby RCE, affected versions and how to fix it (CVE-2026-132825)",
+      "url": "https://www.aikido.dev/blog/ruby2shell",
+      "source": "Aikido Blog",
+      "published": "2026-11-19T09:42:00Z",
+      "summary": "Ruby2Shell is a critical Ruby flaw that can give attackers code execution. See affected versions, whether GitLab is hit, and how to upgrade and fix it. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PHP Under Fire: 18 Vulnerabilities Strike at the Runtime",
+      "url": "https://semgrep.dev/blog/2026/php-runtime-vulnerabilities-november-2026",
+      "source": "Semgrep Blog",
+      "published": "2026-11-19T06:00:00Z",
+      "summary": "PHP’s November 19 release fixes 17 new CVEs across the runtime, session handling, timezone processing, and PHP-FPM, seven of them rated Critical. Here’s what’s affected and how to upgrade to 8.2.36, 8.3.37, 8.4.28, 8.5.13, or 8.6.0.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "MITRE Acknowledges Inaccurate Publication Timestamps in 87% of Its Recent CVE Records",
+      "url": "https://socket.dev/blog/mitre-cve-timestamp-issues?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-11-18T19:38:28Z",
+      "summary": "MITRE acknowledges inaccurate publication timestamps in 87% of its recent CVE records and plans to retire the legacy system responsible in 2027.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "PHP critical security release, 19 November (CVE-2026-129289, CVE-2026-115560)",
+      "url": "https://www.aikido.dev/blog/php-security-release-19-november-2026-cve-2026-115560",
+      "source": "Aikido Blog",
+      "published": "2026-11-18T19:28:00Z",
+      "summary": "PHP’s 19 November 2026 security release fixes 18 CVEs, including CVE-2026-115560. See fixed versions, whether you’re affected and how to patch. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "nginx2root: Critical nginx vulnerabilities, including one RCE [CVE-2026-123007, CVE-2026-123634, CVE-2026-123633, CVE-2026-121810, CVE-2026-113425]",
+      "url": "https://www.aikido.dev/blog/nginx2root-critical-nginx-rce-vulnerabilities",
+      "source": "Aikido Blog",
+      "published": "2026-11-18T17:11:00Z",
+      "summary": "nginx2root is five critical nginx RCE vulnerabilities, including CVE-2026-123007 in HTTP/2. Check if you’re affected and update to nginx 1.31.9 or 1.30.7. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+      "url": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-11-18T11:00:00Z",
+      "summary": "The evolution of malware command-and-control (C2) infrastructure has shifted away from fragile, centralized servers and hardcoded domains toward resilient, decentralized blockchain networks that eliminate single points of failure.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+      "url": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-11-18T11:00:00Z",
+      "summary": "Cisco Talos discovered malicious infrastructure associated with a financially motivated threat group we are tracking as UAT-12643.",
+      "tags": [
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Five Critical NGINX Vulnerabilities Put Web Servers at Risk of Remote Code Execution",
+      "url": "https://semgrep.dev/blog/2026/critical-nginx-vulnerabilities-put-web-servers-at-risk-of-remote-code-execution",
+      "source": "Semgrep Blog",
+      "published": "2026-11-18T08:00:00Z",
+      "summary": "Critical HTTP/2 bugs in NGINX, one dating back to 2015, put web servers at risk of remote code execution. Upgrade to 1.30.7 or 1.31.9.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft agent-framework PyPI Package Compromised",
+      "url": "https://www.stepsecurity.io/blog/microsoft-agent-framework-pypi-package-compromised",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-18T07:53:14Z",
+      "summary": "Versions 1.26.1 and 1.26.2 of Microsoft's agent-framework PyPI package, published November 17, contain Python startup hooks that harvest cloud and CI/CD credentials and attempt to obtain identity tokens. Both releases send collected data to a webhook.site endpoint. PyPI quarantined both versions;...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "published": "2026-11-18T02:52:04Z",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which s...",
+      "tags": [
+        "investigations",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Harden-Runner Brings Runtime Security Inside Kata and Nitro Runner Pods",
+      "url": "https://www.stepsecurity.io/blog/harden-runner-brings-runtime-security-inside-kata-and-nitro-runner-pods",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-18T02:45:57Z",
+      "summary": "Harden-Runner monitors GitHub Actions jobs and enforces egress policies inside runner microVMs on Kata Containers and Amazon EKS Nitro Sandboxes.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Take-Home Test That Runs on Your Work Laptop: Inside the AccuraSoftHire Fake Interview Campaign",
+      "url": "https://www.stepsecurity.io/blog/accurasofthire-fake-interview-developer-machines",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-18T02:45:57Z",
+      "summary": "Binance says its $6.34 billion theft began when an engineer ran a fake interview assignment on his work computer. JFrog has now exposed a fake company, AccuraSoftHire, built to run the same trick. We decoded the attacker's server history from a public Ethereum wallet and found npm packages from t...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
+      "url": "https://blog.talosintelligence.com/java4shell/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-11-18T01:53:03Z",
+      "summary": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
+      "tags": [
+        "research",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Optimizely Supply Chain Attack Distributes Malware Across Global Brands",
+      "url": "https://socket.dev/blog/optimizely-supply-chain-attack?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-11-18T00:17:00Z",
+      "summary": "Attackers exploited Optimizely to inject malicious JavaScript into major websites, delivering cryptocurrency clippers, card skimmers, and iOS malware.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft’s agent-framework PyPI package Compromised with Credential Stealer",
+      "url": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-11-17T23:05:25Z",
+      "summary": "Compromised agent-framework versions 1.26.1 and 1.26.2 on PyPI use .pth startup hooks to exfiltrate Azure, GitHub Actions, and CI/CD credentials.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
+      "url": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
+      "source": "Wiz Blog",
+      "published": "2026-11-17T22:29:57Z",
+      "summary": "Detect and mitigate Java4Shell (CVE-2026-114938), a critical 9.2 RCE vulnerability affecting OpenJDK and major Java-based applications.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft agent-framework Compromised: Credential Stealer Targets Azure and CI Pipelines",
+      "url": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+      "source": "Wiz Blog",
+      "published": "2026-11-17T22:03:37Z",
+      "summary": "On November 17, 2026 at 20:35 UTC, versions 1.26.1 & 1.26.2 of the Microsoft PyPI package agent-framework were published with an added credential stealer. The package gets almost 200k downloads a month. The malicious versions have since been quarantined.",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Security for the agentic era, powered by Microsoft Perception",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-11-17T18:14:00Z",
+      "summary": "<p>Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-p...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The risks of device code authentication for AI coding agents",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-11-17T15:00:00Z",
+      "summary": "<p>Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authe...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Java4Shell: RCE flaw in OpenJDK's Base64 decoder, with affected versions and fix (CVE-2026-114938)",
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+      "source": "Aikido Blog",
+      "published": "2026-11-17T13:10:00Z",
+      "summary": "Java4Shell (CVE-2026-114938) is an RCE flaw in OpenJDK’s Base64 decoder. See affected versions, fixed builds and the -XX:-UseBASE64Intrinsics mitigation. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Siemens SIMATIC WinCC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-09.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, whic...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Dorsett Controls InfoScan",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "source": "CISA Cybersecurity Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-321-01.json\"><strong>View CSAF</strong></a></p> <h2>Summary</h2> <p><strong>Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access applicati...",
+      "tags": [
+        "advisory",
+        "government",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Two malicious agent-framework releases hit PyPI in 33 minutes",
+      "url": "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
+      "source": "Aikido Blog",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "Two malicious agent-framework releases on PyPI ran a credential stealer on every Python start, targeting Azure, Azure DevOps, and GitHub Actions secrets. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Java4Shell: A Critical Java Vulnerability Hiding in Plain Sight",
+      "url": "https://semgrep.dev/blog/2026/java4shell-openjdk-base64-vulnerability",
+      "source": "Semgrep Blog",
+      "published": "2026-11-17T06:00:00Z",
+      "summary": "Java4Shell turns malformed Base64 into remote code execution in Jenkins, Jira, Keycloak and more. Check your Java runtimes and CPUs, then patch.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-11-17T00:08:41Z",
+      "summary": "<p>Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microso...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ARTEX: Attackers Adopted This AI Pentesting Tool in Three Months. Leaked Secrets Are Its Fastest Way In.",
+      "url": "https://www.stepsecurity.io/blog/artex-ai-pentesting-tool-attackers-leaked-secrets",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-16T18:37:11Z",
+      "summary": "ARTEX is an open-source tool where AI agents run a penetration test on their own. Since August 2026, state-aligned groups, criminal crews and one runaway research agent have pointed ARTEX at hundreds of organizations. In one case, an agent went from a GitHub search for leaked secrets to stolen cl...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Introducing the Wiz AI Security Agent",
+      "url": "https://www.wiz.io/blog/introducing-wiz-ai-security-agent",
+      "source": "Wiz Blog",
+      "published": "2026-11-16T17:02:41Z",
+      "summary": "Meet the Wiz AI Security Agent, your newest security teammate to discover AI agents, understand their purpose, and expose hidden risks.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Usable Security at Luxury Hotels",
+      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
+      "source": "Schneier on Security",
+      "published": "2026-11-16T12:04:42Z",
+      "summary": "<p>Interesting <a href=\"https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/\">case study</a> from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudule...",
+      "tags": [
+        "analysis",
+        "research"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "CVE-2026-126187: React Server Components Flaw Lets Attackers Execute Code Through Smuggled Flight Rows",
+      "url": "https://www.stepsecurity.io/blog/cve-2026-126187-react-flight-rce",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-15T20:06:43Z",
+      "summary": "React shipped fixes on November 10, 2026 for a CVSS 9.5 unauthenticated RCE in React Server Components' Flight protocol. Read how a silent serialization bug turns typed arrays into code execution, who is exposed, and how to find affected installs in CI and on developer machines.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "WFX Phantom: The GitHub Actions Secret Stealer That Deletes Its Tracks",
+      "url": "https://www.stepsecurity.io/blog/wfx-phantom-the-github-actions-secret-stealer",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-15T20:06:43Z",
+      "summary": "A coordinated botnet of compromised GitHub accounts launched a widespread attack, opening seemingly harmless pull requests before pushing a malicious shell script directly to default branches. The script, dubbed \"wfx\", executed through GitHub Actions to steal secrets before the attackers quickly ...",
+      "tags": [
+        "research",
+        "vendor",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "GitHub Package Firewall vs. StepSecurity Secure Registry: Protection beyond npm",
+      "url": "https://www.stepsecurity.io/blog/github-package-firewall-vs-stepsecurity-secure-registry-protection-beyond-npm",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-15T20:06:43Z",
+      "summary": "GitHub’s package firewall covers npm only. StepSecurity's Secure Registry protects 8 ecosystems, traces every install, and blocks malicious packages within an hour",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Railway’s Security Incident: Why CI/CD Needs Runtime Security",
+      "url": "https://www.stepsecurity.io/blog/railway-security-incident-cicd-runtime-security",
+      "source": "StepSecurity Blog",
+      "published": "2026-11-15T20:06:43Z",
+      "summary": "Lessons from Railway’s November 10 report: review build access, tighten OIDC trust, and use Harden-Runner to observe and restrict CI/CD runtime activity.",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
+      "source": "Schneier on Security",
+      "published": "2026-11-13T22:00:46Z",
+      "summary": "<p>Climate change is the <a href=\"https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/\">issue</a>.</p> <p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p...",
+      "tags": [
+        "analysis"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-11-13T21:31:44Z",
+      "summary": "<p>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-t...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+      "url": "https://blog.talosintelligence.com/artex-and-beyond/",
+      "source": "Cisco Talos Blog",
+      "published": "2026-11-13T20:57:13Z",
+      "summary": "AI-enabled penetration testing and red team frameworks can automate and chain reconnaissance, vulnerability testing, and follow-on actions, lowering the skill threshold for attackers and accelerating intrusions when the tools are misused.",
+      "tags": [
+        "research",
+        "vuln"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "The Green Agent POV: Formulating the Fix for an Exposed Container with Sensitive Data Access",
+      "url": "https://www.wiz.io/blog/inside-green-agent-investigation",
+      "source": "Wiz Blog",
+      "published": "2026-11-13T17:05:02Z",
+      "summary": "See how the Green Agent balanced security urgency with business continuity to turn a toxic combination into an executable remediation plan and ready-to-merge pull requests.",
+      "tags": [
+        "research",
+        "vendor",
+        "patch",
+        "breach"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Top 8 Upwind Security alternatives for code and cloud security",
+      "url": "https://www.aikido.dev/blog/upwind-security-alternatives",
+      "source": "Aikido Blog",
+      "published": "2026-11-13T15:39:00Z",
+      "summary": "Compare eight Upwind alternatives for code, cloud and runtime security, with a side-by-side table and a shortlist for each buying situation. Category: DevSec Tools & Comparisons",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Top 9 Qualys alternatives for infrastructure and application security",
+      "url": "https://www.aikido.dev/blog/top-qualys-alternatives",
+      "source": "Aikido Blog",
+      "published": "2026-11-13T11:56:00Z",
+      "summary": "Compare the top 9 Qualys alternatives for 2026, from Aikido, Tenable and Rapid7 to Wiz, Orca and Snyk, by cloud, code and remediation coverage. Category: DevSec Tools & Comparisons",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Critical Apache HTTP Server vulnerability can allow remote code execution (CVE-2026-119618)",
+      "url": "https://www.aikido.dev/blog/cve-2026-119618-apache-http-server-rce",
+      "source": "Aikido Blog",
+      "published": "2026-11-13T08:49:00Z",
+      "summary": "CVE-2026-119618 is a critical mod_http2 RCE in Apache HTTP Server 2.4.55 to 2.4.70. See who is affected, how to fix it, and how to disable HTTP/2. Category: Vulnerabilities & Threats",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+      "source": "Microsoft Security Blog",
+      "published": "2026-11-12T17:00:00Z",
+      "summary": "<p>Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities.</p> <p>The post <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-s...",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Cyberattacks Are Skyrocketing in Japan as Researchers Trace AI-Assisted Intrusions",
+      "url": "https://socket.dev/blog/japan-cyberattack-surge?utm_medium=feed",
+      "source": "Socket Blog",
+      "published": "2026-11-12T14:51:52Z",
+      "summary": "Japan faces a record surge in cyberattacks as researchers uncover AI-assisted intrusions, widespread data breaches, and growing pressure to patch vulnerabilities.",
+      "tags": [
+        "research",
+        "vendor",
+        "vuln",
+        "patch"
+      ],
+      "lang": "en"
+    },
+    {
+      "title": "Top AI network and infrastructure pentesting tools in 2026",
+      "url": "https://www.aikido.dev/blog/top-network-infrastructure-pentesting-tools",
+      "source": "Aikido Blog",
+      "published": "2026-11-12T14:01:00Z",
+      "summary": "Compare six AI network and infrastructure pentesting tools. Aikido Security is our pick for external network pentesting; see what fits internal networks. Category: DevSec Tools & Comparisons",
+      "tags": [
+        "research",
+        "vendor"
+      ],
+      "lang": "en"
+    }
+  ]
+}
